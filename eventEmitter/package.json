@@ -1,0 +1,6 @@
+{
+    "type": "module",
+    "dependencies": {
+        "nanocolors": "^0.2.11"
+    }
+}
